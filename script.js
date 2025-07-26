@@ -8,7 +8,7 @@ box1.addEventListener('mouseover',()=>{
 })
 box1.addEventListener('mouseout',()=>{
 	box2.style.backgroundColor = '#E6E6FA'
-	box3.style.backgroundColor = '##E6E6FA'
+	box3.style.backgroundColor = '#E6E6FA'
 })
 box2.addEventListener('mouseover',()=>{
 	box1.style.backgroundColor = '#6F4E37'
